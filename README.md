@@ -1,17 +1,18 @@
-                                            The-Pizza-SQLery-Sales-Revenue-Insights
-                                            Domain :- SALES
+                                    The-Pizza-SQLery-Sales-Revenue-Insights
+                                            
+                                         Domain :- SALES
                                             
 This project is a complete end-to-end SQL case study analyzing pizza sales performance using real-world business questions.
 It uncovers total orders, revenue patterns, top-performing pizzas, customer preferences, and advanced category-level insights, helping businesses optimize menu strategy and boost profitability.
 
                                              Project Features
 
-✔️ 13 business-driven SQL questions
-✔️ Clean, modular SQL scripts
-✔️ Revenue analysis, cumulative trends, category insights
-✔️ SQL joins, window functions, aggregates
-✔️ Beginner-friendly + interview-ready
-✔️ PDF project report included
+* 13 business-driven SQL questions
+* Clean, modular SQL scripts
+* Revenue analysis, cumulative trends, category insights
+* SQL joins, window functions, aggregates
+* Beginner-friendly + interview-ready
+* PDF project report included
 
                                               SQL Concepts Used
 
